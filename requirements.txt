@@ -1,7 +1,6 @@
 streamlit==0.82.0
 Keras==2.4.3
 nibabel==3.2.1
-opencv_python==4.5.2.52
+opencv-python-headless==4.2.0.32
 matplotlib==3.4.2
 numpy==1.19.5
-opencv-python-headless==4.2.0.32
